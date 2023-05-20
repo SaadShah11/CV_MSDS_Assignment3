@@ -18,6 +18,12 @@ the most appropriate model in urban computer vision applications.
 ![alt text](./images/unet.png)
 
 #### Results
+![alt text](./images/result_table1.PNG)
+![alt text](./images/result_table2.PNG)
+![alt text](./images/result_table3.PNG)
+![alt text](./images/result_table4.PNG)
+
+#### Traiing and Validation Graphs
 ##### UNet with VGG-11 Backbone
 ![alt text](./images/train_and_val_1.png)
 ![alt text](./images/train_and_val_loss.png)
